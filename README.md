@@ -1,3 +1,3 @@
-# button_push_game
+# button-push-game
 
 Javascriptでタイムアタックボタン押しゲームを作成してみた。
